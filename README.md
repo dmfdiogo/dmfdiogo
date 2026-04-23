@@ -2,7 +2,7 @@
 
 Software Engineer with 6+ years of experience designing and delivering scalable applications across the full stack. I specialize in **.NET** and **React/React Native**, with a focus on architectural decisions, cross-platform product delivery, and system integration.
 
-Currently at [H2O Innovation](https://www.h2oinnovation.com/) architecting a unified platform that consolidates multiple applications into a single, cohesive system for water treatment operations deployed in industrial environments across North America.
+Currently at [H2O Innovation](https://www.h2oinnovation.com.py/) architecting a unified platform that consolidates multiple applications into a single, cohesive system for water treatment operations deployed in industrial environments across North America.
 
 - 🏙️ Foz do Iguaçu, Brazil
 - 🎓 MBA in Software Engineering · Exchange at University of Ontario Institute of Technology
