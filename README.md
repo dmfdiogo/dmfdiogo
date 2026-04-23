@@ -5,7 +5,6 @@ Software Engineer with 6+ years of experience designing and delivering scalable 
 Currently at [H2O Innovation](https://www.h2oinnovation.com/) architecting a unified platform that consolidates multiple applications into a single, cohesive system for water treatment operations deployed in industrial environments across North America.
 
 - 🏙️ Foz do Iguaçu, Brazil
-- 🔭 Currently: contributing to [`react-native-background-actions`](https://github.com/Rapsssito/react-native-background-actions) and exploring MFE patterns with Module Federation
 - 🎓 MBA in Software Engineering · Exchange at University of Ontario Institute of Technology
 - ♟️ Into chess, rock & electronic music, and systems that hold up under load
 
