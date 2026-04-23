@@ -64,16 +64,6 @@ Led integration of a secure online payment gateway and built CMS customizations 
 
 ---
 
-## 🔨 Selected Work
-
-**[poc-mfe](https://github.com/dmfdiogo/poc-mfe)** — Proof of concept for Module Federation-based micro-frontend architecture. Explores independent deployment, shared dependency negotiation, and runtime composition between separate React apps.
-
-**[react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions/pull/267)** — Open source contribution fixing a compile error caused by an Android API 35 method override (`onTimeout(int, int)`) being applied against `compileSdkVersion 34`, which doesn't expose that signature in the base `Service` class.
-
-**[kg-barbershop](https://github.com/dmfdiogo/kg-barbershop)** — Full stack barber shop management system built with TypeScript, covering scheduling, client management, and service catalog.
-
----
-
 ## 📜 Certifications
 
 - **Microsoft Certified: AI Fundamentals** (AI-900) · 2024
