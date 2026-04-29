@@ -5,7 +5,7 @@ Software Engineer with 6+ years of experience designing and delivering scalable 
 Currently at [H2O Innovation](https://www.h2oinnovation.com.py/) architecting a unified platform that consolidates multiple applications into a single, cohesive system for water treatment operations deployed in industrial environments across North America.
 
 - 🏙️ Foz do Iguaçu, Brazil
-- 🎓 MBA in Software Engineering · Exchange at University of Ontario Institute of Technology
+- 🎓 B.S. in Computer Science, UDC — Foz do Iguaçu (2019) · MBA in Software Engineering, UTFPR · Exchange at University of Ontario Institute of Technology
 - ♟️ Into chess, rock & electronic music, and systems that hold up under load
 
 ---
