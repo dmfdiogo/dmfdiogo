@@ -63,6 +63,17 @@ Led integration of a secure online payment gateway and built CMS customizations 
 
 ---
 
+## 🤖 AI & LLMs
+
+I've been closely following the AI space — not just as a user, but as an engineer trying to understand what's happening under the hood. My current areas of interest:
+
+- **RAG architectures** — retrieval strategies, chunking, embedding models, and how context quality affects generation
+- **Context management** — how models handle long contexts, window limitations, and the tradeoffs in prompt design
+- **LLM integration patterns** — tool use, structured outputs, memory systems, and agent loops in production apps
+- **AI-assisted development** — understanding where AI augments engineering decisions vs. where it introduces risk
+
+---
+
 ## 📜 Certifications
 
 - **Microsoft Certified: AI Fundamentals** (AI-900) · 2024
